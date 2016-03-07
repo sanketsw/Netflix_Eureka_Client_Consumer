@@ -12,7 +12,9 @@ and verify that your service is registered there
 ## What does the consumer do
 
 The consumer REST API calls the Hello World REST API from project https://github.com/sanketsw/Netflix_Eureka_Client_HelloWorld
-It prints the instance IP and port of the Hellow World
+
+It prints the instance IP and port of the Hellow World. 
+
 If you have more than one instances , you can see load balancer in action and see the instance ip and port changed on subsequent refresh of consumer call of <app_name>.mybluemix.net
 
 
